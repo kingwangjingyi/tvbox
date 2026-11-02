@@ -57,15 +57,6 @@
       "filterable": 1
     },
     {
-      "key": "wolong",
-      "name": "卧龙资源(含伦理)",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "bdzy",
       "name": "百度资源(含伦理)",
       "type": 1,
@@ -76,7 +67,7 @@
     },
     {
       "key": "yinghua",
-      "name": "樱花资源(含伦理)",
+      "name": "樱花资源(含伦理/动漫)",
       "type": 1,
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -91,6 +82,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风资源(含短剧)",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360zy",
+      "name": "360资源(短剧+动漫)",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "modu",
+      "name": "魔都资源(动漫)",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
@@ -98,14 +116,6 @@
       "name": "央视高清(IPv6优先)",
       "type": 0,
       "url": "https://peterhchina.github.io/iptv/CCTV-V6.m3u",
-      "epg": "https://live.fanmingming.com/e.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "playerType": 1
-    },
-    {
-      "name": "央视高清(IPv4)",
-      "type": 0,
-      "url": "https://peterhchina.github.io/iptv/CCTV-V4.m3u",
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "playerType": 1
@@ -127,7 +137,7 @@
       "playerType": 1
     },
     {
-      "name": "港台+国际(Guovin)",
+      "name": "港台+国际(Guovin IPv4)",
       "type": 0,
       "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
       "epg": "https://live.fanmingming.com/e.xml",
@@ -135,7 +145,7 @@
       "playerType": 1
     },
     {
-      "name": "vbskycn IPv4",
+      "name": "综合IPv4(vbskycn)",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.m3u",
       "epg": "https://live.fanmingming.com/e.xml",
@@ -143,9 +153,9 @@
       "playerType": 1
     },
     {
-      "name": "vbskycn IPv6",
+      "name": "综合IPv4(suxuang)",
       "type": 0,
-      "url": "https://live.zbds.top/tv/iptv6.m3u",
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "playerType": 1
