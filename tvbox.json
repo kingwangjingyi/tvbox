@@ -109,6 +109,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "xjzy",
+      "name": "小鸡资源(AV)",
+      "type": 1,
+      "api": "https://api.xjzyapi.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "souav",
+      "name": "搜AV资源",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
