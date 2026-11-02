@@ -1,0 +1,122 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzi",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dyttzy",
+      "name": "电影天堂资源",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsu",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "subo",
+      "name": "素博资源",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszy",
+      "name": "极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "央视高清(IPv6优先)",
+      "type": 0,
+      "url": "https://peterhchina.github.io/iptv/CCTV-V6.m3u",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "playerType": 1
+    },
+    {
+      "name": "央视高清(IPv4)",
+      "type": 0,
+      "url": "https://peterhchina.github.io/iptv/CCTV-V4.m3u",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "playerType": 1
+    },
+    {
+      "name": "央视+卫视精选(IPv6)",
+      "type": 0,
+      "url": "https://peterhchina.github.io/iptv/CNTV-V6.m3u",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "playerType": 1
+    },
+    {
+      "name": "Guovin完整源(IPv4)",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "playerType": 1
+    },
+    {
+      "name": "vbskycn IPv4",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "playerType": 1
+    },
+    {
+      "name": "vbskycn IPv6",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv6.m3u",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "playerType": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "默认解析",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "JSON解析",
+      "type": 1,
+      "url": "https://json.icu/?url="
+    }
+  ]
+}
