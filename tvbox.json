@@ -181,14 +181,29 @@
   ],
   "parses": [
     {
-      "name": "默认解析",
+      "name": "虾米解析",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "JSON解析",
-      "type": 1,
-      "url": "https://json.icu/?url="
+      "name": "虾米备用",
+      "type": 0,
+      "url": "https://jx.xmflv.cc/?url="
+    },
+    {
+      "name": "夜幕解析",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "name": "爱豆解析",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "M1907",
+      "type": 0,
+      "url": "https://im1907.top/?jx="
     }
   ]
 }
