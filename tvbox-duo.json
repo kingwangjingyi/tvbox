@@ -1,0 +1,60 @@
+{
+  "urls": [
+    {
+      "name": "饭太硬",
+      "url": "http://www.饭太硬.net/tv"
+    },
+    {
+      "name": "饭太硬(top)",
+      "url": "http://饭太硬.top/tv"
+    },
+    {
+      "name": "饭太硬(888484)",
+      "url": "http://fty.888484.xyz/tv"
+    },
+    {
+      "name": "饭太硬(333232)",
+      "url": "http://fty.333232.xyz/tv"
+    },
+    {
+      "name": "王二小",
+      "url": "https://d.kstore.dev/download/9280/wex.json"
+    },
+    {
+      "name": "王二小(备)",
+      "url": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "name": "嗷呜",
+      "url": "https://9763.kstore.vip/aowu.json"
+    },
+    {
+      "name": "摸鱼儿",
+      "url": "http://我不是.摸鱼儿.top"
+    },
+    {
+      "name": "4K小盒子",
+      "url": "http://xhztv.top/4k.json"
+    },
+    {
+      "name": "老刘备",
+      "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "name": "小马",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "宝盒",
+      "url": "http://宝盒接口.top"
+    },
+    {
+      "name": "自建干净源",
+      "url": "https://raw.githubusercontent.com/kingwangjingyi/tvbox/main/tvbox-clean.json"
+    },
+    {
+      "name": "自建完整源",
+      "url": "https://raw.githubusercontent.com/kingwangjingyi/tvbox/main/tvbox.json"
+    }
+  ]
+}
