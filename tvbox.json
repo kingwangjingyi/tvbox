@@ -127,6 +127,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_XBPQ_hsex",
+      "name": "好色TV(成人)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "主页url": "https://hsex.men/",
+        "数组": "class=\"thumbnail\"&&</div></div>",
+        "图片": "url('&&')",
+        "标题": "h5*>&&</a>",
+        "链接": "href=\"&&\"",
+        "副标题": "duration\">&&</var>",
+        "搜索url": "https://hsex.men/search.htm?search={wd}",
+        "搜索模式": "1",
+        "搜索数组": "class=\"thumbnail\"&&</div></div>",
+        "搜索图片": "url('&&')",
+        "搜索标题": "h5*>&&</a>",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "duration\">&&</var>",
+        "分类": "最新$list#周榜$top7_list#总榜$top_list#最热$hot_list#五分钟$5min_list#长片$long_list",
+        "分类url": "https://hsex.men/{cateId}-{catePg}.htm",
+        "详情": "",
+        "线路数组": "",
+        "线路标题": "默认",
+        "播放数组": "id=\"video-source\"&&/>",
+        "播放列表": "",
+        "播放标题": "在线",
+        "播放链接": "src=\"&&\"",
+        "嗅探词": ".m3u8#.mp4",
+        "过滤词": "",
+        "播放请求头": "User-Agent$Mozilla/5.0#Referer$https://hsex.men/"
+      }
     }
   ],
   "lives": [
